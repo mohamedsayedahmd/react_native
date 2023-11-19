@@ -12,7 +12,7 @@ ___
 create new folder called App
 
 - snippets:
-  - rnf
-
+  - rnf - react native function
+  - rns - react native stylesheet
 ___
 [Icons](https://icons.expo.fyi/Index)
